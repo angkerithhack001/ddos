@@ -7,14 +7,14 @@ Commands:
 
 1<code> git clone https://github.com/angkerithhack001/ddos.git</code>
 
-2<code> cd Spam7x</code>
+2<code> cd ddos</code>
 
-3<code> chmod +x Spam7x</code>
+3<code> chmod +x ddos</code>
 
-4<code> node cf.js  <url> <time> <threads> </code>
+4<code> node cf.js url time threads </code>
 
 # USE PYTHON 
-1<code> python kill.py <url> <time> <sned> </code>
+1<code> python kill.py url time sned </code>
 
 #### Follow me
 
